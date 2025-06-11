@@ -1,2 +1,2 @@
 # projeto-docker
-Projeto Docker Dio - Iniciando Micro Serviços - Swarm - 
+Projeto Docker Dio - Iniciando Micro Serviços - Swarm - Nginx - Dockerfile
